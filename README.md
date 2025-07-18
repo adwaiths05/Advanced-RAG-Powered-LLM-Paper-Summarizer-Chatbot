@@ -38,7 +38,7 @@ This project is a Retrieval-Augmented Generation (RAG)-powered chatbot that retr
 
 2. **Clone the Repository:**
    ```bash
-   git clone https://github.com/adwaiths05/advanced-llm-paper-summarizer.git
+   git clone https://github.com/adwaiths05/Advanced-RAG-Powered-LLM-Paper-Summarizer-Chatbot.git
    cd advanced-llm-paper-summarizer
    ```
 
