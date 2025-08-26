@@ -12,6 +12,7 @@ This project is a Retrieval-Augmented Generation (RAG)-powered chatbot that retr
 - **Local Execution**: Ollama enables privacy-preserving, offline LLM inference.
 - **Error Handling**: Robust handling for CUDA errors, invalid inputs, and retrieval failures.
 - **Production-Ready**: Deployed via FastAPI and accessible through Gradio.
+- **Modular Design**: Backend and evaluation are separated into different scripts.
 
 ## Tech Stack
 
